@@ -6,4 +6,5 @@
 
 ![fig6](https://user-images.githubusercontent.com/47859342/103193483-e9c8d900-491f-11eb-85a5-c2fc3e528572.png)
 
+* Please refer to the attached pdf file for details.
 [오주영_20161872_Final_project.pdf](https://github.com/ojy0216/noise-reduction-with-clustering/files/5746123/_20161872_Final_project.pdf)
